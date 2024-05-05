@@ -1,2 +1,2 @@
 # MIPS-assembly-game
-CSCB58 final project
+This is my CSCB58 final project written in MIPS assembly for CPUs on the MIPS architecture.
